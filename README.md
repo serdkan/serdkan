@@ -12,7 +12,7 @@ I am a **Software Developer** specializing in:
 
 ### Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/> **MSSQL**  
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> **MySQL**  
 ---
 
 ## 🌟 About Me
