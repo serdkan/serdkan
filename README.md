@@ -15,10 +15,10 @@ I am a **Software Developer** specializing in:
 ---
 
 ## 🌟 About Me
-- 💻 ERP system design and customization
 - 💻 Passionate about Full-Stack Development.  
+- 🏢 Experienced in **ERP Development** and **HR software solutions**.  
 - ⚡ Skilled in building high-performance web applications.  
-- 🌱 Always eager to learn and explore new technologies.  
+- 🌱 Always eager to learn and explore new technologies. 
 
 ## 🔧 Areas of Interest
 - RESTful API development  
