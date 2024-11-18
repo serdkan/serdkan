@@ -11,7 +11,7 @@ I am a **Software Developer** specializing in:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> **HTML5**  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> **CSS** 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> **Bootstrap**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devexpress/devexpress-original.svg" alt="DevExpress" width="50" height="50"/> **DevExpress**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" alt="DevExpress" width="50" height="50"/> **DevExpress (via Visual Studio)**  
 ### Databases  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/> **MSSQL**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> **MySQL**  
