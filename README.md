@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Serdar
 
-<!--
-**serdkan/serdkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Developer** specializing in:  
+- 🌟 **Languages & Frameworks:**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-Here are some ideas to get you started:
+- 📊 **Databases:**  
+  ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 About Me
+- 💻 Passionate about Full-Stack Development.  
+- ⚡ Skilled in building high-performance web applications.  
+- 🌱 Always eager to learn and explore new technologies.  
+
+## 🔧 Areas of Interest
+- RESTful API development  
+- Frontend & Backend integration  
+- Database structures and optimization  
+
+📫 Feel free to reach out:  
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/serdar-kandiran-1a71a950/)) | [Email](mailto:serdar.kandiran@outlook.com)
