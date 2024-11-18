@@ -25,5 +25,6 @@ I am a **Software Developer** specializing in:
 - Frontend & Backend integration  
 - Database structures and optimization  
 
-📫 Feel free to reach out:  
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/serdar-kandiran-1a71a950/)) | [Email](mailto:serdar.kandiran@outlook.com)
+## 📫 Connect with Me  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/serdar-kandiran-1a71a950/))  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/> Email](serdar.kandiran@outlook.com)  
